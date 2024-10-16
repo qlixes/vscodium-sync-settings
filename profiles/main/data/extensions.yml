@@ -1,0 +1,56 @@
+disabled:
+  - id: asvetliakov.vscode-neovim
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: m1guelpf.better-pest
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: SonarSource.sonarlint-vscode
+    uuid: a7fa941e-bcda-486f-8141-8483a6286177
+enabled:
+  - id: calebporzio.better-phpunit
+    uuid: null
+  - id: ClemensPeters.format-json
+    uuid: null
+  - id: Dart-Code.dart-code
+    uuid: f57f68ea-9ee8-42b5-9a97-041d3e4278c4
+  - id: Dart-Code.flutter
+    uuid: f6c3ec04-6057-4d9c-b997-69cba07a6158
+  - id: DEVSENSE.composer-php-vscode
+    uuid: eed2a934-7bb6-4a5b-a29d-353077efd839
+  - id: DEVSENSE.phptools-vscode
+    uuid: 93916db4-e944-4c74-b68e-47f2834e9e93
+  - id: DEVSENSE.profiler-php-vscode
+    uuid: 6e4e2904-96c2-4c5c-8b78-23da062f2f9e
+  - id: dzhavat.bracket-pair-toggler
+    uuid: null
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: joaoacdias.golang-tdd
+    uuid: null
+  - id: ms-vscode.live-server
+    uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
+  - id: ms-vscode.vscode-typescript-next
+    uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
+  - id: mtxr.sqltools
+    uuid: 6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b
+  - id: redhat.java
+    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: rexshi.phpdoc-comment-vscode-plugin
+    uuid: null
+  - id: ryanluker.vscode-coverage-gutters
+    uuid: 188277b8-e4bc-4c10-92fa-d6959b4243ea
+  - id: vknabel.vscode-swiftlint
+    uuid: 787d4a79-fb47-4539-b946-5e1f9c856e87
+  - id: WakaTime.vscode-wakatime
+    uuid: f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3
+  - id: WallabyJs.console-ninja
+    uuid: null
+  - id: wix.vscode-import-cost
+    uuid: c46b0018-f317-4b6c-a785-d2039b27338f
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
+  - id: zxh404.vscode-proto3
+    uuid: 1d3d1fb2-0d8f-47ed-bfce-990b8ddfc9d8
